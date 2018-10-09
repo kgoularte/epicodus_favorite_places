@@ -3,25 +3,39 @@
 
   <head>
     <link href="css/fav.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/fav.css">
+    <script src="js/scripts.js"></script>
     <title>Web page #1</title>
   </head>
 
   </body>
     <h1>Favorite Places</h1>
     <h2>Kayla's favorite places</h2>
+
     <ul>
       <li>oregon</li>
       <li>silver falls</li>
       <li>toketee</li>
     </ul>
+
     <img src="img/oregon.jpg"/>
     <h2>Arashi's favorite places</h2>
-    <ul>
-      <li>china</li>
-      <li>japan</li>
-      <li>russia</li>
-    </ul>
-<img src="img/china.jpg"/>
+
+    <div class="form-group">
+       <label>New Goal</label>
+       <input type="text" id="new-goal">
+       <button class="btn" type="button" id="goal-button">Add goal</button>
+     </div>
+
+    <ul id="goal-list">
+  <li class="list-item">china</li>
+  <li class="list-item" id="css-item">japan</li>
+  <li class="list-item">russia</li>
+  <li class="list-item">dreamworld</li>
+</ul>
+
+    <img src="img/china.jpg"/>
   </body>
 
 </html>

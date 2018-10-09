@@ -1,17 +1,17 @@
-## _first-webpage_
+# _My Pets_
 
-#### _first-webpage & favorite places, 10-9-18_
+#### _page about kayla and rob's pets, 10-8-18_
 
-#### By _**arashi walker, kayla goularte, rob bruce**_
+#### By _**kayla goularte, rob bruce**_
 
 ## Description
 
-_things we are going to learn about coding, our favorite places_
+_gives pcitures and information about our animals_
 
 ## Setup/Installation Requirements
 
-* clone repo
-* open cloned repo
+* _Clone this repository_
+* _Open cloned link_
 
 ## Known Bugs
 
@@ -19,15 +19,14 @@ _n/a_
 
 ## Support and contact details
 
-_anyone can alter code_
+_feel free to add to or change any code in this website._
 
 ## Technologies Used
 
-_html, atom,_
+_html, git_
 
 ### License
 
-*MIT*
+*mit*
 
-Copyright (c) 2016 **_arashi walker, kayla goularte, rob bruce_**
-# my-first-webpage
+Copyright (c) 2016 **_kayla goularte, rob bruce_**

@@ -1,12 +1,12 @@
 ## _first-webpage_
 
-#### _first-webpage, 10-9-18_
+#### _first-webpage & favorite places, 10-9-18_
 
 #### By _**arashi walker, kayla goularte, rob bruce**_
 
 ## Description
 
-_things we are going to learn about coding_
+_things we are going to learn about coding, our favorite places_
 
 ## Setup/Installation Requirements
 
